@@ -10,14 +10,14 @@ body{
     font-size: 20px;
 }
 .container{
-    width: 85%;
+    width: 80%;
     padding: 20px;
     text-align: left;
     border: 1px solid #ddd;
     margin: 0 auto;
 }
 #cabesera{
-    width: 85%;
+    width: 80%;
     padding: 20px;
     margin: 0 auto;
     background: #37379d;
@@ -25,6 +25,9 @@ body{
     text-align: left;
     border: 10px solid #37379d;
     box-shadow: 1px 5px 1px 5px rgba(55, 55, 157, 0.2);
+}
+#post{
+    margin-top: 1em;
 }
 #blog{
     font-weight: bold;
