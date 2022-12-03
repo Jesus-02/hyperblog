@@ -14,7 +14,22 @@ body{
     padding: 20px;
     text-align: left;
     border: 1px solid #ddd;
-    margin: auto;
+    margin: 0 auto;
+}
+#cabesera{
+    width: 85%;
+    padding: 20px;
+    margin: 0 auto;
+    background: #37379d;
+    color: #ddd;
+    text-align: left;
+    border: 10px solid #37379d;
+    box-shadow: 1px 5px 1px 5px rgba(55, 55, 157, 0.2);
+}
+#blog{
+    font-weight: bold;
+    font-size: 35px;
+    margin-right: 1em;
 }
 h1{
     font-size: 50px;
