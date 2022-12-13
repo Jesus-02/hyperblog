@@ -12,5 +12,6 @@ Un blog increible para el[ curso de Git y Github](https://platzi.com/cursos/git-
 * Creado por el increíble programador Jesús Díaz
 * Incluye ejemplos en linux, windows y mac
 * Los temas increíbles de github
+* Jesú Díaz programador junior más [info](https://alesus2022.000webhostapp.com/ "info")
 
 Y como un amable recordatorio: **Este redme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [a ver el curso](https://platzi.com/cursos/git-github/ "a ver el curso")
